@@ -1,0 +1,5 @@
+Contrary to popular belief, Lorem Ipsum is not simply random text.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+There are many variations of passages of Lorem Ipsum available.
+The majority have suffered alteration in some form, by injected humour, or randomised words.
+The wise man therefore always holds in these matters to this principle of selection.
